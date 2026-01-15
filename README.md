@@ -56,3 +56,4 @@ java -cp bin socialNetwork.Main
 ## About `@SuppressWarnings`
 
 This project uses `@SuppressWarnings("rawtypes", "unchecked")` in a few places due to data structures using raw `Comparable` types without generics. (due to time contraint).
+# socialNetwork
